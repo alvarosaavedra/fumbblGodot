@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://doiqbk2xw8lsh"]
+
+[ext_resource type="Texture2D" uid="uid://by04u3irdi886" path="res://Assets/Pitchs/BasicNice.jpg" id="1_iyv4s"]
+
+[node name="Pitch" type="Node2D"]
+
+[node name="BasicNice" type="Sprite2D" parent="."]
+position = Vector2(1125, 648)
+scale = Vector2(0.6, 0.6)
+texture = ExtResource("1_iyv4s")
